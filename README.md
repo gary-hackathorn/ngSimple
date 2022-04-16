@@ -1,5 +1,7 @@
 # NgSimple
 
+Updated April 15, 2022
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 #Deploy to GutHub pages
